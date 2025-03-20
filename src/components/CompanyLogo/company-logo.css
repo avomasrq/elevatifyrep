@@ -1,0 +1,21 @@
+.company-logo {
+  background-color: #fff0f0;
+  border-radius: 6px;
+  height: 37px;
+  position: relative;
+  width: 37px;
+}
+
+.company-logo .text-wrapper {
+  color: #000000;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}

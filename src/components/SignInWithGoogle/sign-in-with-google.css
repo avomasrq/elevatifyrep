@@ -1,0 +1,277 @@
+.sign-in-with-google {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.sign-in-with-google .account-choice-box {
+  align-items: center;
+  align-self: stretch;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dadce0;
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  justify-content: center;
+  padding: 0px 0px 36px;
+  position: relative;
+  width: 100%;
+}
+
+.sign-in-with-google .div-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.sign-in-with-google .title-contents {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  padding: 8px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.sign-in-with-google .google-logo {
+  height: 14px;
+  position: relative;
+  width: 14px;
+}
+
+.sign-in-with-google .text-wrapper-4 {
+  color: #5f6368;
+  flex: 1;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.sign-in-with-google .div-3 {
+  align-self: stretch;
+  background-color: #dadce0;
+  height: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.sign-in-with-google .main-content {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.sign-in-with-google .header {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  padding: 4px 40px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.sign-in-with-google .header-text {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.sign-in-with-google .text-wrapper-5 {
+  align-self: stretch;
+  color: #202124;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.sign-in-with-google .to-continue-to {
+  align-self: stretch;
+  color: transparent;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.sign-in-with-google .span {
+  color: #202124;
+}
+
+.sign-in-with-google .text-wrapper-6 {
+  color: #1a73e8;
+  font-family: "Roboto-Medium", Helvetica;
+  font-weight: 500;
+}
+
+.sign-in-with-google .accounts-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 1px;
+  position: relative;
+  width: 100%;
+}
+
+.sign-in-with-google .account-option-instance {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  width: 100% !important;
+}
+
+.sign-in-with-google .another-account {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  padding: 14px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.sign-in-with-google .account-icon {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.sign-in-with-google .text-wrapper-7 {
+  color: #3c4043;
+  flex: 1;
+  font-family: "Roboto-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.sign-in-with-google .element-px-border-bottom {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.sign-in-with-google .description {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 9px 40px 3px;
+  position: relative;
+  width: 100%;
+}
+
+.sign-in-with-google .to-continue-google {
+  color: transparent;
+  flex: 1;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.sign-in-with-google .text-wrapper-8 {
+  color: #5f6368;
+}
+
+.sign-in-with-google .footer {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.sign-in-with-google .language-option-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px 8px 8px 16px;
+  position: relative;
+}
+
+.sign-in-with-google .text-wrapper-9 {
+  color: #202124;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.sign-in-with-google .img {
+  height: 4px;
+  position: relative;
+  width: 8px;
+}
+
+.sign-in-with-google .right-buttons {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.sign-in-with-google .footer-button-instance {
+  flex: 0 0 auto !important;
+}
